@@ -6,7 +6,7 @@
 
 ```
 import("stdfaust.lib");
-process =
+process = +, +, +, +, 
 ```
 
 ##### 2. Descrivi il seguente diagramma a blocchi e scrivine il relativo codice di programma
