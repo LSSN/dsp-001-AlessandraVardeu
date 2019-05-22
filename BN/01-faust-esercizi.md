@@ -32,5 +32,5 @@ process = *(0.5), _*(0.5),_*(0.5),_*(0.5) ;
 
 ```
 import("stdfaust.lib");
-process =
+process = +, + :+; 
 ```
